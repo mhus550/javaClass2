@@ -13,8 +13,14 @@ jFile myNotes = new File("/Users/thanyaratsaengsing/eclipse-workspace/sdet-java-
 	//Relative file path is a path from the place where code is running to your specific file
 	File myNotesRelativePath = new File("src/day50/notes.txt");
 	System.out.println("file exists: " + myNotesRelativePath.exists());
+<<<<<<< HEAD
 	System.out.println(myNotesRelativePath.getAbsolutePath());fgdfgdfg
 fdgdfadfgfdagadf
         System.out.println("person 2 added new line")	
+=======
+	System.out.println(myNotesRelativePath.getAbsolutePath());
+		
+		System.out.println("Mohammad did")
+>>>>>>> d1a08731f398543ba8d5f282c421cae74f64acfe
 	}
 }

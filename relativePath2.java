@@ -16,5 +16,7 @@ public class SortArrays {
 		Arrays.sort(names);
 		System.out.println(Arrays.toString(names));
 		
+		System.out.println("Mohammad modified this file")
+		
 	}
 }
